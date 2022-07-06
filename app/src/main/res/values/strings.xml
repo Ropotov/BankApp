@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BankApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="card_number">** 1234</string>
+    <string name="card_balance">2100.00</string>
+    <string name="card_full_number">1234 5647 8755 4564</string>
+    <string name="CardType">Дебетовая</string>
+    <string name="percent">12.56</string>
+    <string name="card_type_debet">Дебетовая</string>
+    <string name="card_type_credit">Кредитная</string>
+</resources>
